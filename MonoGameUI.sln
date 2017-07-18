@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameUI", "MonoGameUI\MonoGameUI.csproj", "{8A3EC825-8744-4494-8FA3-9F567F7BAAA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtriLib3", "G:\Development\AtriLib3\AtriLib3\AtriLib3.csproj", "{B75C0738-3C82-423D-9594-97410152194E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameUIWindows", "MonoGameUIWindows\MonoGameUIWindows.csproj", "{CF111A61-B1CC-481D-849D-89880AABD2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A3EC825-8744-4494-8FA3-9F567F7BAAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3EC825-8744-4494-8FA3-9F567F7BAAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3EC825-8744-4494-8FA3-9F567F7BAAA2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8A3EC825-8744-4494-8FA3-9F567F7BAAA2}.Debug|x86.Build.0 = Debug|Any CPU
+		{8A3EC825-8744-4494-8FA3-9F567F7BAAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3EC825-8744-4494-8FA3-9F567F7BAAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3EC825-8744-4494-8FA3-9F567F7BAAA2}.Release|x86.ActiveCfg = Release|Any CPU
+		{8A3EC825-8744-4494-8FA3-9F567F7BAAA2}.Release|x86.Build.0 = Release|Any CPU
+		{B75C0738-3C82-423D-9594-97410152194E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75C0738-3C82-423D-9594-97410152194E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B75C0738-3C82-423D-9594-97410152194E}.Debug|x86.Build.0 = Debug|Any CPU
+		{B75C0738-3C82-423D-9594-97410152194E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75C0738-3C82-423D-9594-97410152194E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75C0738-3C82-423D-9594-97410152194E}.Release|x86.ActiveCfg = Release|Any CPU
+		{B75C0738-3C82-423D-9594-97410152194E}.Release|x86.Build.0 = Release|Any CPU
+		{CF111A61-B1CC-481D-849D-89880AABD2FC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CF111A61-B1CC-481D-849D-89880AABD2FC}.Debug|x86.ActiveCfg = Debug|x86
+		{CF111A61-B1CC-481D-849D-89880AABD2FC}.Debug|x86.Build.0 = Debug|x86
+		{CF111A61-B1CC-481D-849D-89880AABD2FC}.Release|Any CPU.ActiveCfg = Release|x86
+		{CF111A61-B1CC-481D-849D-89880AABD2FC}.Release|x86.ActiveCfg = Release|x86
+		{CF111A61-B1CC-481D-849D-89880AABD2FC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
